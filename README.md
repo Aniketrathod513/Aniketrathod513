@@ -52,9 +52,9 @@ I am a passionate **Full-Stack & AI Engineer** with a strong focus on building s
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketrathod513&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketrathod513&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketrathod513&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketrathod513&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketrathod513&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketrathod513&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
