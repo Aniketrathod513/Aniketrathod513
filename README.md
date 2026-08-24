@@ -17,44 +17,40 @@ I am a passionate **Full-Stack & AI Engineer** with a strong focus on building s
 - 🧠 **AI Integration:** Expertise in optimizing multiple AI models (Claude AI, etc.) for real-world applications.
 - ☁️ **Cloud & DevOps:** Active in DevOps practices, experienced in deploying architectures on **GCP** and **Synology Servers**.
 - 🔭 **Currently Working On:** Enterprise Resource Planning (ERP) systems, Inventory Management, and AI-driven solutions.
-- 📫 **Reach out to me:** aniketrathod0905@gmail.com | https://www.linkedin.com/in/aniket-rathod-a2502521b/
+- 📫 **Reach out to me:** [aniketrathod0905@gmail.com](mailto:aniketrathod0905@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aniket-rathod-a2502521b/)
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-<details>
-  <summary><b>🌐 Frontend & Mobile</b></summary><br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-</details>
+**🌐 Frontend & Mobile**<br/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<br/><br/>
 
-<details>
-  <summary><b>⚙️ Backend</b></summary><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</details>
+**⚙️ Backend**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<br/><br/>
 
-<details>
-  <summary><b>☁️ AI, Cloud & DevOps</b></summary><br/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-008080?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Synology_Server-333333?style=for-the-badge" />
-</details>
+**☁️ AI, Cloud & DevOps**<br/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-008080?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Synology_Server-333333?style=for-the-badge" />
 
 ---
 
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketrathod513&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketrathod513&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketrathod513&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketrathod513&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketrathod513&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
